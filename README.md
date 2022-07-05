@@ -1,4 +1,4 @@
-# peso-en-otro-planeta
+# peso-en-otro-planeta con JS
 Sabras tu peso en kg en Marte y en Jupiter.
 
 1. Introduciras tu peso en KG 
