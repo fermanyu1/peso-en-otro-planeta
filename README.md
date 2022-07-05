@@ -1,5 +1,5 @@
-# peso-en-otro-planeta con JS
-Sabras tu peso en kg en Marte y en Jupiter.
+# peso-en-otro-planeta 
+Sabras tu peso en kg en Marte y en Jupiter con js
 
 1. Introduciras tu peso en KG 
 2. Introduciras "1" si quieres saber tu peso en Marte.
